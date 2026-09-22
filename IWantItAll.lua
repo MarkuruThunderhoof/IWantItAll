@@ -11,7 +11,8 @@ local textures = {
     ["Interface\\Icons\\Racial_Dwarf_FindTreasure"] = "Find Treasure",
     ["Interface\\Icons\\Spell_Nature_Earthquake"] = "Find Minerals",
     ["Interface\\Icons\\inv_tradeskillitem_03"] = "Find Trees",
-    ["Interface\\Icons\\INV_Misc_Fish_02"] = "Find Fish"
+    ["Interface\\Icons\\INV_Misc_Fish_02"] = "Find Fish",
+    ["Interface\\Icons\\INV_Misc_Fish_28"] = "Find Fish"
 }
 
 local cmds = {
